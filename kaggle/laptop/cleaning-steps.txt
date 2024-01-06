@@ -1,5 +1,7 @@
 laptops["Ram"] = laptops["Ram"].str.replace('GB', '')
 laptops["Weight"] = laptops["Weight"].str.replace('kg', '')
+
+
 laptops['Memory'] = laptops['Memory'].astype(str).replace('\.0', '', regex=True)
 laptops["Memory"] = laptops["Memory"].str.replace('GB', '')
 laptops["Memory"] = laptops["Memory"].str.replace('TB', '000')
@@ -26,6 +28,8 @@ laptops["HDD"]=(laptops["first"]*laptops["Layer1HDD"]+laptops["second"]*laptops[
 laptops["SSD"]=(laptops["first"]*laptops["Layer1SSD"]+laptops["second"]*laptops["Layer2SSD"])
 laptops["Hybrid"]=(laptops["first"]*laptops["Layer1Hybrid"]+laptops["second"]*laptops["Layer2Hybrid"])
 laptops["Flash_Storage"]=(laptops["first"]*laptops["Layer1Flash_Storage"]+laptops["second"]*laptops["Layer2Flash_Storage"])
+
+
 new = laptops["ScreenResolution"].str.split("x", n = 1, expand = True) 
 laptops["X_res"]= new[0]
 laptops["Y_res"]= new[1]
