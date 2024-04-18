@@ -1,0 +1,71 @@
+,bookID,title,authors,average_rating,isbn,isbn13,language_code,  num_pages,ratings_count,text_reviews_count,publication_date,publisher
+0,1,Harry Potter and the Half-Blood Prince (Harry Potter  #6),J.K. Rowling/Mary GrandPré,4.57,0439785960,9780439785969,eng,652,2095690,27591,9/16/2006,Scholastic Inc.
+1,2,Harry Potter and the Order of the Phoenix (Harry Potter  #5),J.K. Rowling/Mary GrandPré,4.49,0439358078,9780439358071,eng,870,2153167,29221,9/1/2004,Scholastic Inc.
+3,5,Harry Potter and the Prisoner of Azkaban (Harry Potter  #3),J.K. Rowling/Mary GrandPré,4.56,043965548X,9780439655484,eng,435,2339585,36325,5/1/2004,Scholastic Inc.
+8,13,The Ultimate Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy  #1-5),Douglas Adams,4.38,0345453743,9780345453747,eng,815,249558,4080,4/30/2002,Del Rey Books
+12,21,A Short History of Nearly Everything,Bill Bryson,4.21,076790818X,9780767908184,eng,544,248558,9396,9/14/2004,Broadway Books
+21,30,J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.59,0345538374,9780345538376,eng,1728,101233,1550,9/25/2012,Ballantine Books
+23,34,The Fellowship of the Ring (The Lord of the Rings  #1),J.R.R. Tolkien,4.36,0618346252,9780618346257,eng,398,2128944,13670,9/5/2003,Houghton Mifflin Harcourt
+288,870,Fullmetal Alchemist  Vol. 1 (Fullmetal Alchemist  #1),Hiromu Arakawa/Akira Watanabe,4.5,1591169208,9781591169208,eng,192,111091,1427,5/3/2005,VIZ Media LLC
+682,2199,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,4.28,0743270754,9780743270755,eng,916,133840,6118,9/26/2006,Simon & Schuster
+781,2547,The Prophet,Kahlil Gibran/جبران خليل جبران/Jihad El,4.23,000100039X,9780001000391,eng,127,184293,5418,1/1/2010,Rupa & Co
+868,2880,Bleach  Volume 01,Tite Kubo,4.22,1591164419,9781591164418,eng,200,140403,1063,5/19/2004,VIZ Media LLC
+1201,4069,Man's Search for Meaning,Viktor E. Frankl/Harold S. Kushner/William J. Winslade/Isle Lasch,4.36,080701429X,9780807014295,eng,165,282127,13449,6/1/2006,Beacon Press
+1407,4934,The Brothers Karamazov,Fyodor Dostoyevsky/Fyodor Dostoevsky/Richard Pevear/Larissa Volokhonsky,4.32,0374528373,9780374528379,eng,796,191531,6795,6/14/2002,Farrar  Straus and Giroux
+1459,5094,The Drawing of the Three (The Dark Tower  #2),Stephen King,4.23,0451210859,9780451210852,eng,463,173022,5139,8/5/2003,Signet
+1505,5211,A Fine Balance,Rohinton Mistry,4.36,140003065X,9781400030651,eng,603,112196,7546,11/30/2001,Vintage
+1559,5364,Dragonfly in Amber (Outlander  #2),Diana Gabaldon,4.32,0385335970,9780385335973,eng,743,222140,11121,8/7/2001,Bantam
+1585,5472,Animal Farm / 1984,George Orwell/Christopher Hitchens,4.28,0151010269,9780151010264,eng,400,146659,1625,6/1/2003,Houghton Mifflin Harcourt
+1610,5544,Surely You're Joking  Mr. Feynman!: Adventures of a Curious Character,Richard P. Feynman,4.28,0393316041,9780393316049,eng,391,106526,3685,4/12/1997,W. W. Norton & Company
+1663,5805,V for Vendetta,Alan Moore/David   Lloyd,4.25,1401207928,9781401207922,eng,296,234954,4058,11/1/2005,Vertigo
+1697,5907,The Hobbit  or There and Back Again,J.R.R. Tolkien,4.27,0618260307,9780618260300,eng,366,2530894,32871,8/15/2002,Houghton Mifflin
+1786,6294,Howl's Moving Castle (Howl's Moving Castle  #1),Diana Wynne Jones,4.29,006441034X,9780064410342,eng,329,161582,9026,8/1/2001,Harper Trophy
+1987,7126,The Count of Monte Cristo,Alexandre Dumas/Robin Buss,4.25,0140449264,9780140449266,eng,1276,647271,14249,5/27/2003,Penguin Classics
+1996,7144,Crime and Punishment,Fyodor Dostoyevsky/David McDuff,4.21,0143058142,9780143058144,eng,671,483122,10265,12/31/2002,Penguin
+2060,7445,The Glass Castle,Jeannette Walls,4.27,074324754X,9780743247542,eng,288,808656,46176,1/17/2006,Scribner
+2170,7784,The Lorax,Dr. Seuss,4.35,0679889108,9780679889106,eng,72,260054,3532,2/24/1998,Random House Books for Young Readers
+2263,8127,Anne of Green Gables (Anne of Green Gables  #1),L.M. Montgomery,4.25,0451528824,9780451528827,eng,320,625759,13883,5/6/2003,Signet Book
+2585,9516,Persepolis: The Story of a Childhood (Persepolis  #1),Marjane Satrapi/Mattias Ripa,4.25,037571457X,9780375714573,eng,153,144121,8131,6/1/2004,Pantheon
+2591,9532,Ender's Shadow (The Shadow Series  #1),Orson Scott Card,4.31,0765342405,9780765342409,eng,469,133114,4243,5/19/2002,Starscape
+2594,9539,The Shadow Rising (The Wheel of Time  #4),Robert Jordan,4.24,0812513738,9780812513738,eng,1007,148074,2471,10/15/1993,Tom Doherty Tor Fantasy
+2846,10572,A Clash of Kings  (A Song of Ice and Fire  #2),George R.R. Martin,4.41,0553381695,9780553381696,eng,969,638766,16535,5/28/2002,Bantam
+2959,10964,Outlander (Outlander  #1),Diana Gabaldon,4.23,0440242940,9780440242949,eng,850,673350,34690,7/26/2005,Dell Publishing Company
+2960,10965,A Breath of Snow and Ashes (Outlander  #6),Diana Gabaldon,4.44,0385340397,9780385340397,eng,980,105950,3992,8/29/2006,Delta
+2962,10967,The Fiery Cross (Outlander  #5),Diana Gabaldon/Janos Farkas,4.27,0440221668,9780440221661,eng,1443,128901,5294,8/30/2005,Dell
+2976,10987,Voyager (Outlander  #3),Diana Gabaldon,4.39,0385335997,9780385335997,eng,870,198818,8130,8/7/2001,Delta
+2977,10988,Drums of Autumn (Outlander  #4),Diana Gabaldon,4.35,0385335989,9780385335980,eng,880,141771,5455,8/7/2001,Delta
+3020,11138,Mere Christianity,C.S. Lewis,4.32,0684823780,9780684823782,eng,191,240060,5828,6/1/1996,Touchstone Books
+3021,11149,The Screwtape Letters,C.S. Lewis,4.22,0060652896,9780060652890,eng,224,116834,4746,3/6/2001,HarperCollins
+3150,11566,The Green Mile,Stephen King,4.44,0451933028,9780451933027,eng,592,207869,4570,9/1/1996,Penguin Signet
+3156,11588,The Shining,Stephen King,4.22,0450040186,9780450040184,eng,659,978535,15105,7/1/1980,New English Library (Hodder & Stoughton)
+3536,12873,Rebecca,Daphne du Maurier/Sally Beauman,4.23,1844080382,9781844080380,en-US,441,179639,8119,12/1/2007,Virago Press (UK)
+3787,13615,Death Note  Vol. 1: Boredom (Death Note  #1),Tsugumi Ohba/Takeshi Obata/Pookie Rolf,4.43,1421501686,9781421501680,eng,195,174482,3010,10/10/2005,VIZ Media LLC
+3866,13831,Alanna: The First Adventure (Song of the Lioness  #1),Tamora Pierce,4.26,0689878559,9780689878558,eng,274,101059,3815,1/1/2005,Simon Pulse
+4156,14891,A Tree Grows in Brooklyn,Betty  Smith,4.26,0061120073,9780061120077,eng,496,345283,16114,5/30/2006,HarperCollins Publishers
+4244,15195,The Complete Maus,Art Spiegelman,4.55,0141014083,9780141014081,eng,296,111475,5966,10/2/2003,Penguin Books
+4245,15196,Maus I: A Survivor's Tale: My Father Bleeds History (Maus  #1),Art Spiegelman,4.34,0394541553,9780394541556,eng,159,203013,4873,11/1/1991,Pantheon Books
+4254,15241,The Two Towers (The Lord of the Rings  #2),J.R.R. Tolkien/Peter S. Beagle,4.44,0618346260,9780618346264,eng,322,593467,5798,9/5/2003,Houghton Mifflin
+4415,15881,Harry Potter and the Chamber of Secrets (Harry Potter  #2),J.K. Rowling/Mary GrandPré,4.42,0439064864,9780439064866,eng,341,2293963,34692,6/2/1999,Arthur A. Levine Books / Scholastic Inc.
+4518,16299,And Then There Were None,Agatha Christie,4.26,0312330871,9780312330873,eng,264,625767,18785,5/3/2004,St. Martin's Press
+4531,16328,The Murder of Roger Ackroyd (Hercule Poirot  #4),Agatha Christie,4.24,1579126278,9781579126278,eng,288,103149,5659,9/1/2006,Black Dog & Leventhal Publishers
+4659,16735,The Prince of Tides,Pat Conroy,4.24,0553381547,9780553381542,eng,679,178717,3473,3/26/2002,Dial Press Trade Paperback
+5093,18405,Gone with the Wind,Margaret Mitchell,4.29,0446675539,9780446675536,eng,1037,999139,15323,4/1/1999,Warner Books
+5270,19063,The Book Thief,Markus Zusak/Cao Xuân Việt Khương,4.37,0375831002,9780375831003,eng,552,1516367,86881,3/14/2006,Alfred A. Knopf
+5818,21787,The Princess Bride,William Goldman,4.26,0345418263,9780345418265,eng,456,703676,13878,7/15/2003,Ballantine Books
+6295,23754,Preludes & Nocturnes (The Sandman  #1),Neil Gaiman/Sam Kieth/Mike Dringenberg/Malcolm Jones III/Todd Klein/Karen  Berger,4.24,1563892278,9781563892271,eng,233,171841,3781,12/1/1998,Vertigo
+6349,23919,The Complete Stories and Poems,Edgar Allan Poe,4.38,0385074077,9780385074070,eng,821,183869,1226,8/15/1984,Doubleday & Company  Inc.
+7308,28186,The Sea of Monsters (Percy Jackson and the Olympians  #2),Rick Riordan,4.24,0786856866,9780786856862,eng,279,630511,19806,4/1/2006,Hyperion Books
+7309,28187,The Lightning Thief (Percy Jackson and the Olympians  #1),Rick Riordan,4.25,0786838655,9780786838653,eng,375,1766725,47951,3/1/2006,Disney Hyperion Books
+7527,28881,Lamb: The Gospel According to Biff  Christ's Childhood Pal,Christopher Moore,4.25,0380813815,9780380813810,eng,444,135109,10380,5/25/2004,William Morrow / HarperCollins / Harper Perennial
+7679,29580,Second Foundation (Foundation #3),Isaac Asimov,4.26,0553803735,9780553803730,eng,256,119224,1708,6/1/2004,Bantam Spectra
+7680,29581,Foundation and Empire (Foundation #2),Isaac Asimov,4.22,0553803727,9780553803723,eng,256,126226,2034,6/1/2004,Spectra Books
+7810,30118,A Light in the Attic,Shel Silverstein,4.34,0060513063,9780060513061,eng,176,349247,2567,10/7/2002,Harpercollins Childrens Books
+8568,32929,Goodnight Moon,Margaret Wise Brown/Clement Hurd,4.28,0060775858,9780060775858,eng,32,276426,4975,1/23/2007,HarperCollins
+8828,34084,The Waste Lands (The Dark Tower  #3),Stephen King/Ned Dameron,4.24,0670032565,9780670032563,eng,422,145740,3382,6/23/2003,Viking Adult
+8978,34897,The Dragon Reborn (The Wheel of Time  #3),Robert Jordan,4.25,0765305119,9780765305114,eng,624,183950,2671,9/14/2002,Tor Books
+9150,35729,Lover Eternal (Black Dagger Brotherhood  #2),J.R. Ward,4.35,0451218043,9780451218049,eng,464,155348,5325,3/7/2006,Signet
+9863,39662,Different Seasons,Stephen King,4.35,0751514624,9780751514629,eng,560,127648,2080,2/16/1995,Warner Books
+9920,39988,Matilda,Roald Dahl/Quentin Blake,4.31,0141301066,9780141301068,eng,240,541914,11576,6/1/1998,Puffin Books
+10526,42898,Lover Revealed (Black Dagger Brotherhood  #4),J.R. Ward,4.3,0451412354,9780451412355,eng,480,106469,3691,3/6/2007,Onyx
+10528,42900,Lover Awakened (Black Dagger Brotherhood  #3),J.R. Ward,4.45,0451219368,9780451219367,eng,448,144906,5728,9/5/2006,Signet
+10825,44186,The Monster at the End of this Book,Jon Stone/Michael J. Smollin,4.44,037582913X,9780375829130,eng,32,114297,2565,5/11/2004,Golden Books
